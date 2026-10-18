@@ -1,0 +1,54 @@
+# Compiled classes
+*.class
+
+# Logs
+*.log
+
+# Package files
+*.jar
+*.war
+*.ear
+*.nar
+
+# Build output
+target/
+build/
+out/
+bin/
+
+# Maven / Gradle
+.gradle/
+!gradle/wrapper/gradle-wrapper.jar
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+release.properties
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# NetBeans
+nbproject/
+nbbuild/
+nbdist/
+
+# VS Code
+.vscode/
+.factorypath
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# JVM crash logs
+hs_err_pid*
+replay_pid*
